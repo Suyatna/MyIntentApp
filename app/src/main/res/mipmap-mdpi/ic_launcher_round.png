@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e788706-9783-4fa1-aae4-af888820826b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BarVolume/.idea/dictionaries/Suyatna_PC.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hellokotlin/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hellokotlin/.idea/dictionaries/Suyatna_PC.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../soccerteam/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../soccerteam/.idea/dictionaries/Suyatna_PC.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../soccerteam/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../soccerteam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../soccerteam/app/src/main/img_arsenal-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../soccerteam/app/src/main/img_bayern-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../soccerteam/app/src/main/img_chelsea-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../soccerteam/app/src/main/img_city-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../soccerteam/app/src/main/img_madrid-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../soccerteam/app/src/main/img_mu-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../soccerteam/app/src/main/java/com/me/suyatna/soccerteam/Item.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../soccerteam/app/src/main/java/com/me/suyatna/soccerteam/RecyclerViewAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../soccerteam/app/src/main/res/drawable-xxhdpi/img_acm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../soccerteam/app/src/main/res/drawable-xxhdpi/img_arsenal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../soccerteam/app/src/main/res/drawable-xxhdpi/img_barca.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../soccerteam/app/src/main/res/drawable-xxhdpi/img_bayern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../soccerteam/app/src/main/res/drawable-xxhdpi/img_chelsea.png" afterDir="false" />
+      <change afterPath="$PROJ
