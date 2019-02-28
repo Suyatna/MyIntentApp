@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MyIntentApp</string>
+    <string name="move_activity">Move Activity</string>
+    <string name="this_is_move_activity">This is move activity</string>
+    <string name="move_with_data">Move with data</string>
+    <string name="data_receiver">Data Receiver</string>
+    <string name="move_with_object">Move With Object</string>
+    <string name="object_received">Object Received</string>
 </resources>
